@@ -1,0 +1,13 @@
+1.复制字体文件到/usr/share/fonts/文件下（确保etc/fonts/fonts.conf文件里面font dierectory list有该路径<dir>）
+
+2.cd /usr/share/fonts/
+
+3.mkfontscale
+
+4.mkfontdir
+
+5.fc-cache
+
+6.fc-list 看系统字体
+
+7.fc-list :lang=zh
