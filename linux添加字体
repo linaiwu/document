@@ -10,6 +10,6 @@
 
 6.fc-list 看系统字体
 
-7.fc-list :lang=zh
+7.fc-list :lang=zh 看系统中文字体
 
 命令安装 yum install -y fontconfig mkfontscale
